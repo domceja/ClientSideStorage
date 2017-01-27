@@ -1,0 +1,15 @@
+{
+  "name": "html5clientstorage",
+  "version": "0.1.0",
+  "description": "quick and dirty example of HTML5 client side storage ",
+  "main": "app.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "html5",
+    "clientstorage"
+  ],
+  "author": "Dom Ceja",
+  "license": "MIT"
+}
